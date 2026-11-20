@@ -3,9 +3,6 @@
 MealMate is a full-stack food ordering application built with **React, Vite, Node.js, Express, and MongoDB**. It includes a customer-facing website, a separate administration panel, and a REST API for authentication, menu items, carts, orders, and restaurant/delivery operations.
 
 
-## Project demo
-
-Watch the [MealMate Food Delivery demo video](media/demo/MealMate-Food-Delivery-Demo.mp4) (MP4, 43.67 MB). Open the video file on GitHub to play it.
 The repository contains three independently run applications:
 
 - **Customer frontend** — browse restaurants and dishes, manage a cart, and place orders.

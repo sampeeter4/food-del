@@ -1,0 +1,3 @@
+import mongoose from "mongoose";
+const schema=new mongoose.Schema({userId:{type:mongoose.Schema.Types.ObjectId,ref:"user",required:true,index:true},label:{type:String,default:"Home"},recipientName:{type:String,required:true},phone:{type:String,required:true},street:{type:String,required:true},landmark:{type:String,default:""},locality:{type:String,required:true},city:{type:String,required:true},state:{type:String,required:true},pincode:{type:String,required:true},country:{type:String,default:"India"},latitude:Number,longitude:Number,isDefault:{type:Boolean,default:false}},{timestamps:true});
+export default mongoose.models.address||mongoose.model("address",schema);

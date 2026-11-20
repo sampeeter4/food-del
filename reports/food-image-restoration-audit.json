@@ -1,0 +1,2359 @@
+{
+  "generatedAt": "2026-11-16",
+  "catalogProducts": 120,
+  "frontendCatalogMatchesShared": true,
+  "categoryCounts": {
+    "Biryani": 15,
+    "Burgers": 15,
+    "Pizza": 15,
+    "Chinese": 15,
+    "Wraps": 15,
+    "South Indian": 15,
+    "Desserts": 15,
+    "Beverages": 15
+  },
+  "originalFrontendFoodPhotos": 32,
+  "originalUniquePhotoHashes": 32,
+  "publicMenuImageFiles": 32,
+  "backendUploadImageFiles": 32,
+  "catalogUniqueImageFiles": 26,
+  "catalogUniqueImageHashes": 26,
+  "missingImagePaths": 0,
+  "productsWithRepeatedImageAssignments": 120,
+  "productsVisuallyVerified": 0,
+  "productsRequiringVisualReview": 120,
+  "databaseSeedExecuted": false,
+  "notes": [
+    "All 32 original frontend food images were backed up and preserved.",
+    "Existing catalog mappings were not guessed or rewritten because visual matching of the actual food was not established.",
+    "Do not run backend/seedCatalog.js as part of this restoration until image mappings are approved; it updates matching MongoDB product records."
+  ],
+  "products": [
+    {
+      "name": "Chicken Dum Biryani",
+      "category": "Biryani",
+      "image": "food_26.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Dum Biryani",
+        "Hyderabadi Biryani",
+        "Mutton Biryani",
+        "Egg Biryani",
+        "Prawn Biryani",
+        "Paneer Biryani",
+        "Ambur Biryani",
+        "Special Chef's Biryani",
+        "Plain Dosa",
+        "Onion Uttapam",
+        "Podi Idli",
+        "Kerala Parotta",
+        "Rava Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Kerala Chicken Biryani",
+      "category": "Biryani",
+      "image": "food_29.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Kerala Chicken Biryani",
+        "Thalassery Biryani",
+        "Beef Biryani",
+        "Fish Biryani",
+        "Veg Biryani",
+        "Donne Biryani",
+        "Kolkata Biryani",
+        "Ghee Roast Dosa",
+        "Idli Sambar",
+        "Pongal",
+        "Puttu and Kadala Curry",
+        "Paneer Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Hyderabadi Biryani",
+      "category": "Biryani",
+      "image": "food_26.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Dum Biryani",
+        "Hyderabadi Biryani",
+        "Mutton Biryani",
+        "Egg Biryani",
+        "Prawn Biryani",
+        "Paneer Biryani",
+        "Ambur Biryani",
+        "Special Chef's Biryani",
+        "Plain Dosa",
+        "Onion Uttapam",
+        "Podi Idli",
+        "Kerala Parotta",
+        "Rava Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Thalassery Biryani",
+      "category": "Biryani",
+      "image": "food_29.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Kerala Chicken Biryani",
+        "Thalassery Biryani",
+        "Beef Biryani",
+        "Fish Biryani",
+        "Veg Biryani",
+        "Donne Biryani",
+        "Kolkata Biryani",
+        "Ghee Roast Dosa",
+        "Idli Sambar",
+        "Pongal",
+        "Puttu and Kadala Curry",
+        "Paneer Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Mutton Biryani",
+      "category": "Biryani",
+      "image": "food_26.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Dum Biryani",
+        "Hyderabadi Biryani",
+        "Mutton Biryani",
+        "Egg Biryani",
+        "Prawn Biryani",
+        "Paneer Biryani",
+        "Ambur Biryani",
+        "Special Chef's Biryani",
+        "Plain Dosa",
+        "Onion Uttapam",
+        "Podi Idli",
+        "Kerala Parotta",
+        "Rava Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Beef Biryani",
+      "category": "Biryani",
+      "image": "food_29.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Kerala Chicken Biryani",
+        "Thalassery Biryani",
+        "Beef Biryani",
+        "Fish Biryani",
+        "Veg Biryani",
+        "Donne Biryani",
+        "Kolkata Biryani",
+        "Ghee Roast Dosa",
+        "Idli Sambar",
+        "Pongal",
+        "Puttu and Kadala Curry",
+        "Paneer Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Egg Biryani",
+      "category": "Biryani",
+      "image": "food_26.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Dum Biryani",
+        "Hyderabadi Biryani",
+        "Mutton Biryani",
+        "Egg Biryani",
+        "Prawn Biryani",
+        "Paneer Biryani",
+        "Ambur Biryani",
+        "Special Chef's Biryani",
+        "Plain Dosa",
+        "Onion Uttapam",
+        "Podi Idli",
+        "Kerala Parotta",
+        "Rava Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Fish Biryani",
+      "category": "Biryani",
+      "image": "food_29.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Kerala Chicken Biryani",
+        "Thalassery Biryani",
+        "Beef Biryani",
+        "Fish Biryani",
+        "Veg Biryani",
+        "Donne Biryani",
+        "Kolkata Biryani",
+        "Ghee Roast Dosa",
+        "Idli Sambar",
+        "Pongal",
+        "Puttu and Kadala Curry",
+        "Paneer Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Prawn Biryani",
+      "category": "Biryani",
+      "image": "food_26.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Dum Biryani",
+        "Hyderabadi Biryani",
+        "Mutton Biryani",
+        "Egg Biryani",
+        "Prawn Biryani",
+        "Paneer Biryani",
+        "Ambur Biryani",
+        "Special Chef's Biryani",
+        "Plain Dosa",
+        "Onion Uttapam",
+        "Podi Idli",
+        "Kerala Parotta",
+        "Rava Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Veg Biryani",
+      "category": "Biryani",
+      "image": "food_29.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Kerala Chicken Biryani",
+        "Thalassery Biryani",
+        "Beef Biryani",
+        "Fish Biryani",
+        "Veg Biryani",
+        "Donne Biryani",
+        "Kolkata Biryani",
+        "Ghee Roast Dosa",
+        "Idli Sambar",
+        "Pongal",
+        "Puttu and Kadala Curry",
+        "Paneer Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Paneer Biryani",
+      "category": "Biryani",
+      "image": "food_26.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Dum Biryani",
+        "Hyderabadi Biryani",
+        "Mutton Biryani",
+        "Egg Biryani",
+        "Prawn Biryani",
+        "Paneer Biryani",
+        "Ambur Biryani",
+        "Special Chef's Biryani",
+        "Plain Dosa",
+        "Onion Uttapam",
+        "Podi Idli",
+        "Kerala Parotta",
+        "Rava Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Donne Biryani",
+      "category": "Biryani",
+      "image": "food_29.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Kerala Chicken Biryani",
+        "Thalassery Biryani",
+        "Beef Biryani",
+        "Fish Biryani",
+        "Veg Biryani",
+        "Donne Biryani",
+        "Kolkata Biryani",
+        "Ghee Roast Dosa",
+        "Idli Sambar",
+        "Pongal",
+        "Puttu and Kadala Curry",
+        "Paneer Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Ambur Biryani",
+      "category": "Biryani",
+      "image": "food_26.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Dum Biryani",
+        "Hyderabadi Biryani",
+        "Mutton Biryani",
+        "Egg Biryani",
+        "Prawn Biryani",
+        "Paneer Biryani",
+        "Ambur Biryani",
+        "Special Chef's Biryani",
+        "Plain Dosa",
+        "Onion Uttapam",
+        "Podi Idli",
+        "Kerala Parotta",
+        "Rava Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Kolkata Biryani",
+      "category": "Biryani",
+      "image": "food_29.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Kerala Chicken Biryani",
+        "Thalassery Biryani",
+        "Beef Biryani",
+        "Fish Biryani",
+        "Veg Biryani",
+        "Donne Biryani",
+        "Kolkata Biryani",
+        "Ghee Roast Dosa",
+        "Idli Sambar",
+        "Pongal",
+        "Puttu and Kadala Curry",
+        "Paneer Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Special Chef's Biryani",
+      "category": "Biryani",
+      "image": "food_26.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Dum Biryani",
+        "Hyderabadi Biryani",
+        "Mutton Biryani",
+        "Egg Biryani",
+        "Prawn Biryani",
+        "Paneer Biryani",
+        "Ambur Biryani",
+        "Special Chef's Biryani",
+        "Plain Dosa",
+        "Onion Uttapam",
+        "Podi Idli",
+        "Kerala Parotta",
+        "Rava Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Classic Chicken Burger",
+      "category": "Burgers",
+      "image": "food_14.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Chicken Burger",
+        "Spicy Paneer Burger",
+        "Fish Fillet Burger",
+        "Crispy Veg Burger"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Crispy Zinger Burger",
+      "category": "Burgers",
+      "image": "food_13.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Crispy Zinger Burger",
+        "Aloo Tikki Burger",
+        "Smoky Beef Burger",
+        "Jalapeno Cheese Burger"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Double Cheese Burger",
+      "category": "Burgers",
+      "image": "food_15.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Double Cheese Burger",
+        "Mushroom Swiss Burger",
+        "Mexican Bean Burger",
+        "MealMate Signature Burger"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "BBQ Chicken Burger",
+      "category": "Burgers",
+      "image": "food_16.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "BBQ Chicken Burger",
+        "Peri Peri Chicken Burger",
+        "Tandoori Chicken Burger",
+        "Falafel Hummus Wrap",
+        "Tandoori Paneer Roll",
+        "Chicken Seekh Kebab Roll"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Spicy Paneer Burger",
+      "category": "Burgers",
+      "image": "food_14.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Chicken Burger",
+        "Spicy Paneer Burger",
+        "Fish Fillet Burger",
+        "Crispy Veg Burger"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Aloo Tikki Burger",
+      "category": "Burgers",
+      "image": "food_13.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Crispy Zinger Burger",
+        "Aloo Tikki Burger",
+        "Smoky Beef Burger",
+        "Jalapeno Cheese Burger"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Mushroom Swiss Burger",
+      "category": "Burgers",
+      "image": "food_15.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Double Cheese Burger",
+        "Mushroom Swiss Burger",
+        "Mexican Bean Burger",
+        "MealMate Signature Burger"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Peri Peri Chicken Burger",
+      "category": "Burgers",
+      "image": "food_16.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "BBQ Chicken Burger",
+        "Peri Peri Chicken Burger",
+        "Tandoori Chicken Burger",
+        "Falafel Hummus Wrap",
+        "Tandoori Paneer Roll",
+        "Chicken Seekh Kebab Roll"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Fish Fillet Burger",
+      "category": "Burgers",
+      "image": "food_14.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Chicken Burger",
+        "Spicy Paneer Burger",
+        "Fish Fillet Burger",
+        "Crispy Veg Burger"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Smoky Beef Burger",
+      "category": "Burgers",
+      "image": "food_13.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Crispy Zinger Burger",
+        "Aloo Tikki Burger",
+        "Smoky Beef Burger",
+        "Jalapeno Cheese Burger"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Mexican Bean Burger",
+      "category": "Burgers",
+      "image": "food_15.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Double Cheese Burger",
+        "Mushroom Swiss Burger",
+        "Mexican Bean Burger",
+        "MealMate Signature Burger"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Tandoori Chicken Burger",
+      "category": "Burgers",
+      "image": "food_16.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "BBQ Chicken Burger",
+        "Peri Peri Chicken Burger",
+        "Tandoori Chicken Burger",
+        "Falafel Hummus Wrap",
+        "Tandoori Paneer Roll",
+        "Chicken Seekh Kebab Roll"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Crispy Veg Burger",
+      "category": "Burgers",
+      "image": "food_14.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Chicken Burger",
+        "Spicy Paneer Burger",
+        "Fish Fillet Burger",
+        "Crispy Veg Burger"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Jalapeno Cheese Burger",
+      "category": "Burgers",
+      "image": "food_13.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Crispy Zinger Burger",
+        "Aloo Tikki Burger",
+        "Smoky Beef Burger",
+        "Jalapeno Cheese Burger"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "MealMate Signature Burger",
+      "category": "Burgers",
+      "image": "food_15.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Double Cheese Burger",
+        "Mushroom Swiss Burger",
+        "Mexican Bean Burger",
+        "MealMate Signature Burger"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Margherita Pizza",
+      "category": "Pizza",
+      "image": "food_5.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Margherita Pizza",
+        "Veggie Delight Pizza",
+        "MealMate Special Pizza"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Farmhouse Pizza",
+      "category": "Pizza",
+      "image": "food_25.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Farmhouse Pizza",
+        "Peri Peri Chicken Pizza",
+        "Chicken Hakka Noodles",
+        "Schezwan Noodles"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "category": "Pizza",
+      "image": "food_27.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Pepperoni Pizza",
+        "Mexican Fiesta Pizza",
+        "Schezwan Fried Rice",
+        "Mushroom Fried Rice"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Chicken Tikka Pizza",
+      "category": "Pizza",
+      "image": "food_28.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Tikka Pizza",
+        "Mushroom Truffle Pizza",
+        "Veg Manchurian",
+        "Crispy Corn"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Paneer Makhani Pizza",
+      "category": "Pizza",
+      "image": "food_30.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Paneer Makhani Pizza",
+        "Hawaiian Pizza",
+        "Chicken Manchurian",
+        "Kung Pao Chicken"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "BBQ Chicken Pizza",
+      "category": "Pizza",
+      "image": "food_31.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "BBQ Chicken Pizza",
+        "Spicy Supreme Pizza",
+        "Chilli Paneer",
+        "Garlic Pepper Prawns"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Four Cheese Pizza",
+      "category": "Pizza",
+      "image": "food_9.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Four Cheese Pizza",
+        "Corn and Cheese Pizza",
+        "Spring Rolls"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Veggie Delight Pizza",
+      "category": "Pizza",
+      "image": "food_5.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Margherita Pizza",
+        "Veggie Delight Pizza",
+        "MealMate Special Pizza"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Peri Peri Chicken Pizza",
+      "category": "Pizza",
+      "image": "food_25.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Farmhouse Pizza",
+        "Peri Peri Chicken Pizza",
+        "Chicken Hakka Noodles",
+        "Schezwan Noodles"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Mexican Fiesta Pizza",
+      "category": "Pizza",
+      "image": "food_27.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Pepperoni Pizza",
+        "Mexican Fiesta Pizza",
+        "Schezwan Fried Rice",
+        "Mushroom Fried Rice"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Mushroom Truffle Pizza",
+      "category": "Pizza",
+      "image": "food_28.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Tikka Pizza",
+        "Mushroom Truffle Pizza",
+        "Veg Manchurian",
+        "Crispy Corn"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Hawaiian Pizza",
+      "category": "Pizza",
+      "image": "food_30.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Paneer Makhani Pizza",
+        "Hawaiian Pizza",
+        "Chicken Manchurian",
+        "Kung Pao Chicken"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Spicy Supreme Pizza",
+      "category": "Pizza",
+      "image": "food_31.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "BBQ Chicken Pizza",
+        "Spicy Supreme Pizza",
+        "Chilli Paneer",
+        "Garlic Pepper Prawns"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Corn and Cheese Pizza",
+      "category": "Pizza",
+      "image": "food_9.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Four Cheese Pizza",
+        "Corn and Cheese Pizza",
+        "Spring Rolls"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "MealMate Special Pizza",
+      "category": "Pizza",
+      "image": "food_5.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Margherita Pizza",
+        "Veggie Delight Pizza",
+        "MealMate Special Pizza"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "category": "Chinese",
+      "image": "food_32.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Veg Hakka Noodles",
+        "Dragon Chicken"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "category": "Chinese",
+      "image": "food_25.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Farmhouse Pizza",
+        "Peri Peri Chicken Pizza",
+        "Chicken Hakka Noodles",
+        "Schezwan Noodles"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Schezwan Fried Rice",
+      "category": "Chinese",
+      "image": "food_27.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Pepperoni Pizza",
+        "Mexican Fiesta Pizza",
+        "Schezwan Fried Rice",
+        "Mushroom Fried Rice"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Veg Manchurian",
+      "category": "Chinese",
+      "image": "food_28.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Tikka Pizza",
+        "Mushroom Truffle Pizza",
+        "Veg Manchurian",
+        "Crispy Corn"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Chicken Manchurian",
+      "category": "Chinese",
+      "image": "food_30.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Paneer Makhani Pizza",
+        "Hawaiian Pizza",
+        "Chicken Manchurian",
+        "Kung Pao Chicken"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Chilli Paneer",
+      "category": "Chinese",
+      "image": "food_31.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "BBQ Chicken Pizza",
+        "Spicy Supreme Pizza",
+        "Chilli Paneer",
+        "Garlic Pepper Prawns"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Chilli Chicken",
+      "category": "Chinese",
+      "image": "food_2.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chilli Chicken",
+        "Triple Schezwan Rice"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Spring Rolls",
+      "category": "Chinese",
+      "image": "food_9.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Four Cheese Pizza",
+        "Corn and Cheese Pizza",
+        "Spring Rolls"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Dragon Chicken",
+      "category": "Chinese",
+      "image": "food_32.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Veg Hakka Noodles",
+        "Dragon Chicken"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Schezwan Noodles",
+      "category": "Chinese",
+      "image": "food_25.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Farmhouse Pizza",
+        "Peri Peri Chicken Pizza",
+        "Chicken Hakka Noodles",
+        "Schezwan Noodles"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Mushroom Fried Rice",
+      "category": "Chinese",
+      "image": "food_27.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Pepperoni Pizza",
+        "Mexican Fiesta Pizza",
+        "Schezwan Fried Rice",
+        "Mushroom Fried Rice"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Crispy Corn",
+      "category": "Chinese",
+      "image": "food_28.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Tikka Pizza",
+        "Mushroom Truffle Pizza",
+        "Veg Manchurian",
+        "Crispy Corn"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Kung Pao Chicken",
+      "category": "Chinese",
+      "image": "food_30.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Paneer Makhani Pizza",
+        "Hawaiian Pizza",
+        "Chicken Manchurian",
+        "Kung Pao Chicken"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Garlic Pepper Prawns",
+      "category": "Chinese",
+      "image": "food_31.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "BBQ Chicken Pizza",
+        "Spicy Supreme Pizza",
+        "Chilli Paneer",
+        "Garlic Pepper Prawns"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Triple Schezwan Rice",
+      "category": "Chinese",
+      "image": "food_2.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chilli Chicken",
+        "Triple Schezwan Rice"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Classic Chicken Wrap",
+      "category": "Wraps",
+      "image": "food_6.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Chicken Wrap",
+        "BBQ Chicken Wrap",
+        "Egg Mayo Wrap",
+        "Mushroom Cheese Wrap"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Paneer Tikka Wrap",
+      "category": "Wraps",
+      "image": "food_7.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Paneer Tikka Wrap",
+        "Crispy Fish Wrap",
+        "Spicy Schezwan Wrap",
+        "Double Chicken Roll"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Peri Peri Chicken Wrap",
+      "category": "Wraps",
+      "image": "food_8.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Peri Peri Chicken Wrap",
+        "Mexican Bean Wrap",
+        "Grilled Veggie Wrap",
+        "MealMate Special Wrap"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Falafel Hummus Wrap",
+      "category": "Wraps",
+      "image": "food_16.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "BBQ Chicken Burger",
+        "Peri Peri Chicken Burger",
+        "Tandoori Chicken Burger",
+        "Falafel Hummus Wrap",
+        "Tandoori Paneer Roll",
+        "Chicken Seekh Kebab Roll"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "BBQ Chicken Wrap",
+      "category": "Wraps",
+      "image": "food_6.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Chicken Wrap",
+        "BBQ Chicken Wrap",
+        "Egg Mayo Wrap",
+        "Mushroom Cheese Wrap"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Crispy Fish Wrap",
+      "category": "Wraps",
+      "image": "food_7.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Paneer Tikka Wrap",
+        "Crispy Fish Wrap",
+        "Spicy Schezwan Wrap",
+        "Double Chicken Roll"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Mexican Bean Wrap",
+      "category": "Wraps",
+      "image": "food_8.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Peri Peri Chicken Wrap",
+        "Mexican Bean Wrap",
+        "Grilled Veggie Wrap",
+        "MealMate Special Wrap"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Tandoori Paneer Roll",
+      "category": "Wraps",
+      "image": "food_16.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "BBQ Chicken Burger",
+        "Peri Peri Chicken Burger",
+        "Tandoori Chicken Burger",
+        "Falafel Hummus Wrap",
+        "Tandoori Paneer Roll",
+        "Chicken Seekh Kebab Roll"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Egg Mayo Wrap",
+      "category": "Wraps",
+      "image": "food_6.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Chicken Wrap",
+        "BBQ Chicken Wrap",
+        "Egg Mayo Wrap",
+        "Mushroom Cheese Wrap"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Spicy Schezwan Wrap",
+      "category": "Wraps",
+      "image": "food_7.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Paneer Tikka Wrap",
+        "Crispy Fish Wrap",
+        "Spicy Schezwan Wrap",
+        "Double Chicken Roll"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Grilled Veggie Wrap",
+      "category": "Wraps",
+      "image": "food_8.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Peri Peri Chicken Wrap",
+        "Mexican Bean Wrap",
+        "Grilled Veggie Wrap",
+        "MealMate Special Wrap"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Chicken Seekh Kebab Roll",
+      "category": "Wraps",
+      "image": "food_16.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "BBQ Chicken Burger",
+        "Peri Peri Chicken Burger",
+        "Tandoori Chicken Burger",
+        "Falafel Hummus Wrap",
+        "Tandoori Paneer Roll",
+        "Chicken Seekh Kebab Roll"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Mushroom Cheese Wrap",
+      "category": "Wraps",
+      "image": "food_6.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Chicken Wrap",
+        "BBQ Chicken Wrap",
+        "Egg Mayo Wrap",
+        "Mushroom Cheese Wrap"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Double Chicken Roll",
+      "category": "Wraps",
+      "image": "food_7.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Paneer Tikka Wrap",
+        "Crispy Fish Wrap",
+        "Spicy Schezwan Wrap",
+        "Double Chicken Roll"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "MealMate Special Wrap",
+      "category": "Wraps",
+      "image": "food_8.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Peri Peri Chicken Wrap",
+        "Mexican Bean Wrap",
+        "Grilled Veggie Wrap",
+        "MealMate Special Wrap"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Masala Dosa",
+      "category": "South Indian",
+      "image": "food_24.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Masala Dosa",
+        "Mysore Masala Dosa",
+        "Medu Vada",
+        "Appam with Stew",
+        "Set Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Plain Dosa",
+      "category": "South Indian",
+      "image": "food_26.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Dum Biryani",
+        "Hyderabadi Biryani",
+        "Mutton Biryani",
+        "Egg Biryani",
+        "Prawn Biryani",
+        "Paneer Biryani",
+        "Ambur Biryani",
+        "Special Chef's Biryani",
+        "Plain Dosa",
+        "Onion Uttapam",
+        "Podi Idli",
+        "Kerala Parotta",
+        "Rava Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Ghee Roast Dosa",
+      "category": "South Indian",
+      "image": "food_29.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Kerala Chicken Biryani",
+        "Thalassery Biryani",
+        "Beef Biryani",
+        "Fish Biryani",
+        "Veg Biryani",
+        "Donne Biryani",
+        "Kolkata Biryani",
+        "Ghee Roast Dosa",
+        "Idli Sambar",
+        "Pongal",
+        "Puttu and Kadala Curry",
+        "Paneer Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Mysore Masala Dosa",
+      "category": "South Indian",
+      "image": "food_24.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Masala Dosa",
+        "Mysore Masala Dosa",
+        "Medu Vada",
+        "Appam with Stew",
+        "Set Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Onion Uttapam",
+      "category": "South Indian",
+      "image": "food_26.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Dum Biryani",
+        "Hyderabadi Biryani",
+        "Mutton Biryani",
+        "Egg Biryani",
+        "Prawn Biryani",
+        "Paneer Biryani",
+        "Ambur Biryani",
+        "Special Chef's Biryani",
+        "Plain Dosa",
+        "Onion Uttapam",
+        "Podi Idli",
+        "Kerala Parotta",
+        "Rava Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Idli Sambar",
+      "category": "South Indian",
+      "image": "food_29.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Kerala Chicken Biryani",
+        "Thalassery Biryani",
+        "Beef Biryani",
+        "Fish Biryani",
+        "Veg Biryani",
+        "Donne Biryani",
+        "Kolkata Biryani",
+        "Ghee Roast Dosa",
+        "Idli Sambar",
+        "Pongal",
+        "Puttu and Kadala Curry",
+        "Paneer Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Medu Vada",
+      "category": "South Indian",
+      "image": "food_24.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Masala Dosa",
+        "Mysore Masala Dosa",
+        "Medu Vada",
+        "Appam with Stew",
+        "Set Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Podi Idli",
+      "category": "South Indian",
+      "image": "food_26.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Dum Biryani",
+        "Hyderabadi Biryani",
+        "Mutton Biryani",
+        "Egg Biryani",
+        "Prawn Biryani",
+        "Paneer Biryani",
+        "Ambur Biryani",
+        "Special Chef's Biryani",
+        "Plain Dosa",
+        "Onion Uttapam",
+        "Podi Idli",
+        "Kerala Parotta",
+        "Rava Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Pongal",
+      "category": "South Indian",
+      "image": "food_29.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Kerala Chicken Biryani",
+        "Thalassery Biryani",
+        "Beef Biryani",
+        "Fish Biryani",
+        "Veg Biryani",
+        "Donne Biryani",
+        "Kolkata Biryani",
+        "Ghee Roast Dosa",
+        "Idli Sambar",
+        "Pongal",
+        "Puttu and Kadala Curry",
+        "Paneer Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Appam with Stew",
+      "category": "South Indian",
+      "image": "food_24.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Masala Dosa",
+        "Mysore Masala Dosa",
+        "Medu Vada",
+        "Appam with Stew",
+        "Set Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Kerala Parotta",
+      "category": "South Indian",
+      "image": "food_26.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Dum Biryani",
+        "Hyderabadi Biryani",
+        "Mutton Biryani",
+        "Egg Biryani",
+        "Prawn Biryani",
+        "Paneer Biryani",
+        "Ambur Biryani",
+        "Special Chef's Biryani",
+        "Plain Dosa",
+        "Onion Uttapam",
+        "Podi Idli",
+        "Kerala Parotta",
+        "Rava Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Puttu and Kadala Curry",
+      "category": "South Indian",
+      "image": "food_29.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Kerala Chicken Biryani",
+        "Thalassery Biryani",
+        "Beef Biryani",
+        "Fish Biryani",
+        "Veg Biryani",
+        "Donne Biryani",
+        "Kolkata Biryani",
+        "Ghee Roast Dosa",
+        "Idli Sambar",
+        "Pongal",
+        "Puttu and Kadala Curry",
+        "Paneer Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Set Dosa",
+      "category": "South Indian",
+      "image": "food_24.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Masala Dosa",
+        "Mysore Masala Dosa",
+        "Medu Vada",
+        "Appam with Stew",
+        "Set Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Rava Dosa",
+      "category": "South Indian",
+      "image": "food_26.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chicken Dum Biryani",
+        "Hyderabadi Biryani",
+        "Mutton Biryani",
+        "Egg Biryani",
+        "Prawn Biryani",
+        "Paneer Biryani",
+        "Ambur Biryani",
+        "Special Chef's Biryani",
+        "Plain Dosa",
+        "Onion Uttapam",
+        "Podi Idli",
+        "Kerala Parotta",
+        "Rava Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Paneer Dosa",
+      "category": "South Indian",
+      "image": "food_29.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Kerala Chicken Biryani",
+        "Thalassery Biryani",
+        "Beef Biryani",
+        "Fish Biryani",
+        "Veg Biryani",
+        "Donne Biryani",
+        "Kolkata Biryani",
+        "Ghee Roast Dosa",
+        "Idli Sambar",
+        "Pongal",
+        "Puttu and Kadala Curry",
+        "Paneer Dosa"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Chocolate Truffle Cake",
+      "category": "Desserts",
+      "image": "food_10.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chocolate Truffle Cake",
+        "Tiramisu",
+        "Choco Chip Cookies"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Red Velvet Cake",
+      "category": "Desserts",
+      "image": "food_12.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Red Velvet Cake",
+        "Chocolate Lava Cake",
+        "Kulfi Falooda"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Classic Cheesecake",
+      "category": "Desserts",
+      "image": "food_17.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Cheesecake",
+        "Mango Mousse",
+        "Tres Leches Cake"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Gulab Jamun",
+      "category": "Desserts",
+      "image": "food_18.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Gulab Jamun",
+        "Caramel Custard"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Rasmalai",
+      "category": "Desserts",
+      "image": "food_19.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Rasmalai",
+        "New York Cheesecake"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Brownie with Ice Cream",
+      "category": "Desserts",
+      "image": "food_20.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Brownie with Ice Cream",
+        "Belgian Waffle"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Tiramisu",
+      "category": "Desserts",
+      "image": "food_10.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chocolate Truffle Cake",
+        "Tiramisu",
+        "Choco Chip Cookies"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Chocolate Lava Cake",
+      "category": "Desserts",
+      "image": "food_12.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Red Velvet Cake",
+        "Chocolate Lava Cake",
+        "Kulfi Falooda"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Mango Mousse",
+      "category": "Desserts",
+      "image": "food_17.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Cheesecake",
+        "Mango Mousse",
+        "Tres Leches Cake"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Caramel Custard",
+      "category": "Desserts",
+      "image": "food_18.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Gulab Jamun",
+        "Caramel Custard"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "New York Cheesecake",
+      "category": "Desserts",
+      "image": "food_19.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Rasmalai",
+        "New York Cheesecake"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Belgian Waffle",
+      "category": "Desserts",
+      "image": "food_20.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Brownie with Ice Cream",
+        "Belgian Waffle"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Choco Chip Cookies",
+      "category": "Desserts",
+      "image": "food_10.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Chocolate Truffle Cake",
+        "Tiramisu",
+        "Choco Chip Cookies"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Kulfi Falooda",
+      "category": "Desserts",
+      "image": "food_12.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Red Velvet Cake",
+        "Chocolate Lava Cake",
+        "Kulfi Falooda"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Tres Leches Cake",
+      "category": "Desserts",
+      "image": "food_17.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Cheesecake",
+        "Mango Mousse",
+        "Tres Leches Cake"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Classic Mojito",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Fresh Lime Soda",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Mango Smoothie",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Cold Coffee",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Iced Tea",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Watermelon Juice",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Strawberry Milkshake",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Oreo Shake",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Virgin Pina Colada",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Masala Chai",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Filter Coffee",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Blue Lagoon",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Tender Coconut Water",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Mint Lemonade",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    },
+    {
+      "name": "Chocolate Frappe",
+      "category": "Beverages",
+      "image": "food_11.png",
+      "imagePathExists": true,
+      "duplicateCatalogAssignments": true,
+      "sameImageAssignedTo": [
+        "Classic Mojito",
+        "Fresh Lime Soda",
+        "Mango Smoothie",
+        "Cold Coffee",
+        "Iced Tea",
+        "Watermelon Juice",
+        "Strawberry Milkshake",
+        "Oreo Shake",
+        "Virgin Pina Colada",
+        "Masala Chai",
+        "Filter Coffee",
+        "Blue Lagoon",
+        "Tender Coconut Water",
+        "Mint Lemonade",
+        "Chocolate Frappe"
+      ],
+      "visualMatch": "not visually verified",
+      "action": "replace or approve after visual inspection"
+    }
+  ],
+  "originalImageInventory": [
+    {
+      "file": "food_1.png",
+      "food": "Greek salad",
+      "group": "Salads"
+    },
+    {
+      "file": "food_2.png",
+      "food": "Veg salad",
+      "group": "Salads"
+    },
+    {
+      "file": "food_3.png",
+      "food": "Clover Salad",
+      "group": "Salads"
+    },
+    {
+      "file": "food_4.png",
+      "food": "Chicken Salad",
+      "group": "Salads"
+    },
+    {
+      "file": "food_5.png",
+      "food": "Lasagna Rolls",
+      "group": "Rolls"
+    },
+    {
+      "file": "food_6.png",
+      "food": "Peri Peri Rolls",
+      "group": "Rolls"
+    },
+    {
+      "file": "food_7.png",
+      "food": "Chicken Rolls",
+      "group": "Rolls"
+    },
+    {
+      "file": "food_8.png",
+      "food": "Veg Rolls",
+      "group": "Rolls"
+    },
+    {
+      "file": "food_9.png",
+      "food": "Ripple Ice Cream",
+      "group": "Ice cream"
+    },
+    {
+      "file": "food_10.png",
+      "food": "Fruit Ice Cream",
+      "group": "Ice cream"
+    },
+    {
+      "file": "food_11.png",
+      "food": "Jar Ice Cream",
+      "group": "Ice cream"
+    },
+    {
+      "file": "food_12.png",
+      "food": "Vanilla Ice Cream",
+      "group": "Ice cream"
+    },
+    {
+      "file": "food_13.png",
+      "food": "Chicken Sandwich",
+      "group": "Sandwiches"
+    },
+    {
+      "file": "food_14.png",
+      "food": "Vegan Sandwich",
+      "group": "Sandwiches"
+    },
+    {
+      "file": "food_15.png",
+      "food": "Grilled Sandwich",
+      "group": "Sandwiches"
+    },
+    {
+      "file": "food_16.png",
+      "food": "Bread Sandwich",
+      "group": "Sandwiches"
+    },
+    {
+      "file": "food_17.png",
+      "food": "Cup Cake",
+      "group": "Cakes"
+    },
+    {
+      "file": "food_18.png",
+      "food": "Vegan Cake",
+      "group": "Cakes"
+    },
+    {
+      "file": "food_19.png",
+      "food": "Butterscotch Cake",
+      "group": "Cakes"
+    },
+    {
+      "file": "food_20.png",
+      "food": "Sliced Cake",
+      "group": "Cakes"
+    },
+    {
+      "file": "food_21.png",
+      "food": "Garlic Mushroom",
+      "group": "Vegetable dishes"
+    },
+    {
+      "file": "food_22.png",
+      "food": "Fried Cauliflower",
+      "group": "Vegetable dishes"
+    },
+    {
+      "file": "food_23.png",
+      "food": "Mix Veg Pulao",
+      "group": "Vegetable dishes"
+    },
+    {
+      "file": "food_24.png",
+      "food": "Rice Zucchini",
+      "group": "Vegetable dishes"
+    },
+    {
+      "file": "food_25.png",
+      "food": "Cheese Pasta",
+      "group": "Pasta"
+    },
+    {
+      "file": "food_26.png",
+      "food": "Tomato Pasta",
+      "group": "Pasta"
+    },
+    {
+      "file": "food_27.png",
+      "food": "Creamy Pasta",
+      "group": "Pasta"
+    },
+    {
+      "file": "food_28.png",
+      "food": "Chicken Pasta",
+      "group": "Pasta"
+    },
+    {
+      "file": "food_29.png",
+      "food": "Butter Noodles",
+      "group": "Noodles"
+    },
+    {
+      "file": "food_30.png",
+      "food": "Veg Noodles",
+      "group": "Noodles"
+    },
+    {
+      "file": "food_31.png",
+      "food": "Somen Noodles",
+      "group": "Noodles"
+    },
+    {
+      "file": "food_32.png",
+      "food": "Cooked Noodles",
+      "group": "Noodles"
+    }
+  ],
+  "visualInspection": {
+    "originalImagesInspected": 32,
+    "observations": "The 32 originals cover salads, rolls, ice cream, sandwiches, cakes, vegetable dishes, pasta and noodles. They do not provide verified photographs for Biryani, Burgers, Pizza, South Indian meals or Beverages. Catalog mappings were not reassigned based on filename alone."
+  }
+}

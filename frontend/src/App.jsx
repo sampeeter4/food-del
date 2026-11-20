@@ -10,6 +10,13 @@ import MyOrders from './pages/MyOrders/MyOrders'
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import Verify from './pages/Verify/Verify'
+import Category from './pages/Category/Category'
+import FoodDetails from './pages/FoodDetails/FoodDetails'
+import Menu from './pages/Menu/Menu'
+import Discover from './pages/Discover/Discover'
+import MobileApp from './pages/MobileApp/MobileApp'
+import Contact from './pages/Contact/Contact'
+import About from './pages/About/About'
 
 const App = () => {
 
@@ -23,6 +30,13 @@ const App = () => {
         <Navbar setShowLogin={setShowLogin}/>
         <Routes>
           <Route path='/' element={<Home />}/>
+          <Route path='/menu' element={<Menu />} />
+          <Route path='/discover' element={<Discover />} />
+          <Route path='/mobile-app' element={<MobileApp />} />
+          <Route path='/contact' element={<Contact />} />
+          <Route path='/about' element={<About />} />
+          <Route path='/category/:categoryName' element={<Category />}/>
+          <Route path='/food/:foodId' element={<FoodDetails />}/>
           <Route path='/cart' element={<Cart />}/>
           <Route path='/order' element={<PlaceOrder />}/>
           <Route path='/myorders' element={<MyOrders />}/>

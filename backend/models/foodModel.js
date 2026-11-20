@@ -1,12 +1,1 @@
-import mongoose from "mongoose";
-
-const foodSchema = new mongoose.Schema({
-    name: { type: String, required: true },
-    description: { type: String, required: true },
-    price: { type: Number, required: true},
-    image: { type: String, required: true },
-    category:{ type:String, required:true}
-})
-
-const foodModel = mongoose.models.food || mongoose.model("food", foodSchema);
-export default foodModel;
+import mongoose from "mongoose"; const schema=new mongoose.Schema({name:{type:String,required:true,trim:true,maxlength:100},description:{type:String,required:true,trim:true,maxlength:1000},price:{type:Number,required:true,min:0.01},image:{type:String,required:true},category:{type:String,required:true,enum:["Salad","Rolls","Deserts","Sandwich","Cake","Pure Veg","Pasta","Noodles","Biryani","Burgers","Pizza","Chinese","Wraps","South Indian","Desserts","Beverages"]},restaurantId:{type:mongoose.Schema.Types.ObjectId,ref:"restaurant",index:true},isAvailable:{type:Boolean,default:true},isVeg:{type:Boolean,default:true},preparationMinutes:{type:Number,default:20},tags:[String],ingredients:[String],discountPercent:{type:Number,default:0,min:0,max:100},rating:{type:Number,default:0,min:0,max:5},ratingCount:{type:Number,default:0}},{timestamps:true}); export default mongoose.models.food||mongoose.model("food",schema);

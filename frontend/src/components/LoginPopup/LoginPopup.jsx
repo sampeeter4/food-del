@@ -1,4 +1,4 @@
-import React, { useContext, useState } from 'react'
+﻿import React, { useContext, useState } from 'react'
 import './LoginPopup.css'
 import { assets } from '../../assets/assets'
 import { StoreContext } from '../../Context/StoreContext'
@@ -32,7 +32,9 @@ const LoginPopup = ({ setShowLogin }) => {
         else {
             new_url += "/api/user/register"
         }
-        const response = await axios.post(new_url, data);
+        let response;
+        try { response = await axios.post(new_url, data); }
+        catch (error) { toast.error(error.response?.data?.message || "Unable to connect to the server"); return; }
         if (response.data.success) {
             setToken(response.data.token)
             localStorage.setItem("token", response.data.token)

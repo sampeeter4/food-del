@@ -1,0 +1,3 @@
+import mongoose from "mongoose";
+const schema=new mongoose.Schema({userId:{type:mongoose.Schema.Types.ObjectId,ref:"user",required:true,unique:true},phone:{type:String,required:true},vehicleType:{type:String,enum:["bike","scooter","bicycle","car"],default:"bike"},vehicleNumber:{type:String,default:""},documents:[String],isVerified:{type:Boolean,default:false},isAvailable:{type:Boolean,default:false},currentLocation:{latitude:Number,longitude:Number,updatedAt:Date},totalDeliveries:{type:Number,default:0},rating:{type:Number,default:0},earningsBalance:{type:Number,default:0}},{timestamps:true});
+export default mongoose.models.deliveryPartner||mongoose.model("deliveryPartner",schema);

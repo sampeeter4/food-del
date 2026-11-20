@@ -1,14 +1,1 @@
-import mongoose from "mongoose";
-
-const orderSchema = new mongoose.Schema({
-    userId: {type:String,required:true},
-    items: { type: Array, required:true},
-    amount: { type: Number, required: true},
-    address:{type:Object,required:true},
-    status: {type:String,default:"Food Processing"},
-    date: {type:Date,default:Date.now()},
-    payment:{type:Boolean,default:false}
-})
-
-const orderModel = mongoose.models.order || mongoose.model("order", orderSchema);
-export default orderModel;
+import mongoose from "mongoose"; const history=new mongoose.Schema({status:{type:String,required:true},at:{type:Date,default:Date.now},by:{type:String,default:"system"},note:{type:String,default:""}},{_id:false}); const schema=new mongoose.Schema({userId:{type:String,required:true,index:true},items:{type:Array,required:true},amount:{type:Number,required:true,min:0},address:{type:Object,required:true},restaurantId:{type:mongoose.Schema.Types.ObjectId,ref:"restaurant",index:true},deliveryPartnerId:{type:mongoose.Schema.Types.ObjectId,ref:"deliveryPartner",index:true},status:{type:String,default:"pending"},statusHistory:{type:[history],default:[]},payment:{type:Boolean,default:false},paymentStatus:{type:String,enum:["pending","paid","failed","refunded","partially_refunded"],default:"pending"},paymentMethod:{type:String,enum:["COD","Stripe","UPI","Card"],default:"COD"},stripeSessionId:{type:String,default:null},subtotal:{type:Number,default:0},deliveryFee:{type:Number,default:50},taxAmount:{type:Number,default:0},discountAmount:{type:Number,default:0},couponCode:{type:String,default:""},scheduledFor:{type:Date,default:null},deliveryInstructions:{type:String,default:""},tipAmount:{type:Number,default:0}},{timestamps:true}); schema.index({userId:1,createdAt:-1}); export default mongoose.models.order||mongoose.model("order",schema);

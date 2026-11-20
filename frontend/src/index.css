@@ -37,3 +37,12 @@ a {
     width: 90%;
   }
 }
+.app { width: 92%; max-width: 1440px; }
+body { background: #fbf7f4; color: #242424; }
+.navbar { padding: 18px 22px; margin: 12px 0 14px; background: #fff; border: 1px solid #f1e8e2; border-radius: 15px; box-shadow: 0 8px 28px #6b35200a; }
+.navbar-menu { font-size: 13px; gap: 25px; color: #57514d; }
+.navbar-menu .active { color: #e65b32; border-color: #e65b32; }
+.navbar-right { gap: 22px; }
+.navbar-right .nav-signin { background: #e9572e; color: #fff; border: 0; padding: 10px 22px; font-size: 12px; }
+body:has(.mm-home) .footer { display: none; }
+@media(max-width:650px){ .app { width: 94%; } .navbar { padding: 13px 14px; } }

@@ -1,0 +1,2777 @@
+[
+  {
+    "name": "Chicken Dum Biryani",
+    "description": "Chicken Dum Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 249,
+    "image": "biryani/biryani_01.jpeg",
+    "category": "Biryani",
+    "isVeg": false,
+    "rating": 4.2,
+    "ratingCount": 120,
+    "preparationMinutes": 15,
+    "tags": [
+      "biryani",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Kerala Chicken Biryani",
+    "description": "Kerala Chicken Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 229,
+    "image": "biryani/biryani_02.webp",
+    "category": "Biryani",
+    "isVeg": false,
+    "rating": 4.9,
+    "ratingCount": 157,
+    "preparationMinutes": 20,
+    "tags": [
+      "biryani",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Hyderabadi Biryani",
+    "description": "Hyderabadi Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 279,
+    "image": "biryani/hyderabadi-biryani.png",
+    "category": "Biryani",
+    "isVeg": false,
+    "rating": 4.8,
+    "ratingCount": 194,
+    "preparationMinutes": 25,
+    "tags": [
+      "biryani",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala"
+    ]
+  },
+  {
+    "name": "Thalassery Biryani",
+    "description": "Thalassery Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 259,
+    "image": "biryani/biryani_04.webp",
+    "category": "Biryani",
+    "isVeg": false,
+    "rating": 4.7,
+    "ratingCount": 231,
+    "preparationMinutes": 30,
+    "tags": [
+      "biryani",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala"
+    ]
+  },
+  {
+    "name": "Mutton Biryani",
+    "description": "Mutton Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 349,
+    "image": "biryani/biryani_05.webp",
+    "category": "Biryani",
+    "isVeg": false,
+    "rating": 4.6,
+    "ratingCount": 268,
+    "preparationMinutes": 15,
+    "tags": [
+      "biryani",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala",
+      "Mutton"
+    ]
+  },
+  {
+    "name": "Beef Biryani",
+    "description": "Beef Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 329,
+    "image": "biryani/biryani_06.webp",
+    "category": "Biryani",
+    "isVeg": false,
+    "rating": 4.5,
+    "ratingCount": 305,
+    "preparationMinutes": 20,
+    "tags": [
+      "biryani",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala",
+      "Beef"
+    ]
+  },
+  {
+    "name": "Egg Biryani",
+    "description": "Egg Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 179,
+    "image": "biryani/biryani_07.webp",
+    "category": "Biryani",
+    "isVeg": false,
+    "rating": 4.4,
+    "ratingCount": 342,
+    "preparationMinutes": 25,
+    "tags": [
+      "biryani",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala",
+      "Egg"
+    ]
+  },
+  {
+    "name": "Fish Biryani",
+    "description": "Fish Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 289,
+    "image": "biryani/biryani_08.webp",
+    "category": "Biryani",
+    "isVeg": false,
+    "rating": 4.3,
+    "ratingCount": 379,
+    "preparationMinutes": 30,
+    "tags": [
+      "biryani",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala",
+      "Fish"
+    ]
+  },
+  {
+    "name": "Prawn Biryani",
+    "description": "Prawn Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 329,
+    "image": "biryani/biryani_09.webp",
+    "category": "Biryani",
+    "isVeg": false,
+    "rating": 4.2,
+    "ratingCount": 416,
+    "preparationMinutes": 15,
+    "tags": [
+      "biryani",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala",
+      "Prawns"
+    ]
+  },
+  {
+    "name": "Veg Biryani",
+    "description": "Veg Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 199,
+    "image": "biryani/biryani_10.webp",
+    "category": "Biryani",
+    "isVeg": true,
+    "rating": 4.9,
+    "ratingCount": 453,
+    "preparationMinutes": 20,
+    "tags": [
+      "biryani",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Paneer Biryani",
+    "description": "Paneer Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 229,
+    "image": "biryani/biryani_11.webp",
+    "category": "Biryani",
+    "isVeg": true,
+    "rating": 4.8,
+    "ratingCount": 490,
+    "preparationMinutes": 25,
+    "tags": [
+      "biryani",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala",
+      "Paneer"
+    ]
+  },
+  {
+    "name": "Donne Biryani",
+    "description": "Donne Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 239,
+    "image": "biryani/biryani_12.webp",
+    "category": "Biryani",
+    "isVeg": false,
+    "rating": 4.7,
+    "ratingCount": 527,
+    "preparationMinutes": 30,
+    "tags": [
+      "biryani",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala"
+    ]
+  },
+  {
+    "name": "Ambur Biryani",
+    "description": "Ambur Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 259,
+    "image": "biryani/biryani_13.webp",
+    "category": "Biryani",
+    "isVeg": false,
+    "rating": 4.6,
+    "ratingCount": 564,
+    "preparationMinutes": 15,
+    "tags": [
+      "biryani",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala"
+    ]
+  },
+  {
+    "name": "Kolkata Biryani",
+    "description": "Kolkata Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 269,
+    "image": "biryani/biryani_14.webp",
+    "category": "Biryani",
+    "isVeg": false,
+    "rating": 4.5,
+    "ratingCount": 601,
+    "preparationMinutes": 20,
+    "tags": [
+      "biryani",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala"
+    ]
+  },
+  {
+    "name": "Special Chef's Biryani",
+    "description": "Special Chef's Biryani, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 399,
+    "image": "biryani/biryani_15.webp",
+    "category": "Biryani",
+    "isVeg": false,
+    "rating": 4.4,
+    "ratingCount": 638,
+    "preparationMinutes": 25,
+    "tags": [
+      "biryani",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Basmati rice",
+      "Onion",
+      "Tomato",
+      "Whole spices",
+      "Fresh herbs",
+      "House masala"
+    ]
+  },
+  {
+    "name": "Classic Chicken Burger",
+    "description": "Classic Chicken Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 179,
+    "image": "food_14.png",
+    "category": "Burgers",
+    "isVeg": false,
+    "rating": 4.2,
+    "ratingCount": 120,
+    "preparationMinutes": 15,
+    "tags": [
+      "burgers",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Crispy Zinger Burger",
+    "description": "Crispy Zinger Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 199,
+    "image": "food_13.png",
+    "category": "Burgers",
+    "isVeg": false,
+    "rating": 4.9,
+    "ratingCount": 157,
+    "preparationMinutes": 20,
+    "tags": [
+      "burgers",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty"
+    ]
+  },
+  {
+    "name": "Double Cheese Burger",
+    "description": "Double Cheese Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 219,
+    "image": "food_15.png",
+    "category": "Burgers",
+    "isVeg": false,
+    "rating": 4.8,
+    "ratingCount": 194,
+    "preparationMinutes": 25,
+    "tags": [
+      "burgers",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty"
+    ]
+  },
+  {
+    "name": "BBQ Chicken Burger",
+    "description": "BBQ Chicken Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 229,
+    "image": "food_16.png",
+    "category": "Burgers",
+    "isVeg": false,
+    "rating": 4.7,
+    "ratingCount": 231,
+    "preparationMinutes": 30,
+    "tags": [
+      "burgers",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Spicy Paneer Burger",
+    "description": "Spicy Paneer Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 169,
+    "image": "food_14.png",
+    "category": "Burgers",
+    "isVeg": true,
+    "rating": 4.6,
+    "ratingCount": 268,
+    "preparationMinutes": 15,
+    "tags": [
+      "burgers",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty",
+      "Paneer"
+    ]
+  },
+  {
+    "name": "Aloo Tikki Burger",
+    "description": "Aloo Tikki Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 99,
+    "image": "food_13.png",
+    "category": "Burgers",
+    "isVeg": true,
+    "rating": 4.5,
+    "ratingCount": 305,
+    "preparationMinutes": 20,
+    "tags": [
+      "burgers",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Mushroom Swiss Burger",
+    "description": "Mushroom Swiss Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 189,
+    "image": "food_15.png",
+    "category": "Burgers",
+    "isVeg": true,
+    "rating": 4.4,
+    "ratingCount": 342,
+    "preparationMinutes": 25,
+    "tags": [
+      "burgers",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Peri Peri Chicken Burger",
+    "description": "Peri Peri Chicken Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 209,
+    "image": "food_16.png",
+    "category": "Burgers",
+    "isVeg": false,
+    "rating": 4.3,
+    "ratingCount": 379,
+    "preparationMinutes": 30,
+    "tags": [
+      "burgers",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Fish Fillet Burger",
+    "description": "Fish Fillet Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 219,
+    "image": "food_14.png",
+    "category": "Burgers",
+    "isVeg": false,
+    "rating": 4.2,
+    "ratingCount": 416,
+    "preparationMinutes": 15,
+    "tags": [
+      "burgers",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty",
+      "Fish"
+    ]
+  },
+  {
+    "name": "Smoky Beef Burger",
+    "description": "Smoky Beef Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 259,
+    "image": "food_13.png",
+    "category": "Burgers",
+    "isVeg": false,
+    "rating": 4.9,
+    "ratingCount": 453,
+    "preparationMinutes": 20,
+    "tags": [
+      "burgers",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty",
+      "Beef"
+    ]
+  },
+  {
+    "name": "Mexican Bean Burger",
+    "description": "Mexican Bean Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 149,
+    "image": "food_15.png",
+    "category": "Burgers",
+    "isVeg": true,
+    "rating": 4.8,
+    "ratingCount": 490,
+    "preparationMinutes": 25,
+    "tags": [
+      "burgers",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Tandoori Chicken Burger",
+    "description": "Tandoori Chicken Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 219,
+    "image": "food_16.png",
+    "category": "Burgers",
+    "isVeg": false,
+    "rating": 4.7,
+    "ratingCount": 527,
+    "preparationMinutes": 30,
+    "tags": [
+      "burgers",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Crispy Veg Burger",
+    "description": "Crispy Veg Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 129,
+    "image": "food_14.png",
+    "category": "Burgers",
+    "isVeg": true,
+    "rating": 4.6,
+    "ratingCount": 564,
+    "preparationMinutes": 15,
+    "tags": [
+      "burgers",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Jalapeno Cheese Burger",
+    "description": "Jalapeno Cheese Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 179,
+    "image": "food_13.png",
+    "category": "Burgers",
+    "isVeg": true,
+    "rating": 4.5,
+    "ratingCount": 601,
+    "preparationMinutes": 20,
+    "tags": [
+      "burgers",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "MealMate Signature Burger",
+    "description": "MealMate Signature Burger, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 279,
+    "image": "food_15.png",
+    "category": "Burgers",
+    "isVeg": false,
+    "rating": 4.4,
+    "ratingCount": 638,
+    "preparationMinutes": 25,
+    "tags": [
+      "burgers",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Burger bun",
+      "Lettuce",
+      "Tomato",
+      "House sauce",
+      "Seasoning",
+      "Cheese or selected patty"
+    ]
+  },
+  {
+    "name": "Margherita Pizza",
+    "description": "Margherita Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 249,
+    "image": "food_5.png",
+    "category": "Pizza",
+    "isVeg": true,
+    "rating": 4.2,
+    "ratingCount": 120,
+    "preparationMinutes": 15,
+    "tags": [
+      "pizza",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Farmhouse Pizza",
+    "description": "Farmhouse Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 329,
+    "image": "food_25.png",
+    "category": "Pizza",
+    "isVeg": true,
+    "rating": 4.9,
+    "ratingCount": 157,
+    "preparationMinutes": 20,
+    "tags": [
+      "pizza",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Pepperoni Pizza",
+    "description": "Pepperoni Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 379,
+    "image": "food_27.png",
+    "category": "Pizza",
+    "isVeg": false,
+    "rating": 4.8,
+    "ratingCount": 194,
+    "preparationMinutes": 25,
+    "tags": [
+      "pizza",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings"
+    ]
+  },
+  {
+    "name": "Chicken Tikka Pizza",
+    "description": "Chicken Tikka Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 349,
+    "image": "food_28.png",
+    "category": "Pizza",
+    "isVeg": false,
+    "rating": 4.7,
+    "ratingCount": 231,
+    "preparationMinutes": 30,
+    "tags": [
+      "pizza",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Paneer Makhani Pizza",
+    "description": "Paneer Makhani Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 319,
+    "image": "food_30.png",
+    "category": "Pizza",
+    "isVeg": true,
+    "rating": 4.6,
+    "ratingCount": 268,
+    "preparationMinutes": 15,
+    "tags": [
+      "pizza",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings",
+      "Paneer"
+    ]
+  },
+  {
+    "name": "BBQ Chicken Pizza",
+    "description": "BBQ Chicken Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 369,
+    "image": "food_31.png",
+    "category": "Pizza",
+    "isVeg": false,
+    "rating": 4.5,
+    "ratingCount": 305,
+    "preparationMinutes": 20,
+    "tags": [
+      "pizza",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Four Cheese Pizza",
+    "description": "Four Cheese Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 399,
+    "image": "food_9.png",
+    "category": "Pizza",
+    "isVeg": true,
+    "rating": 4.4,
+    "ratingCount": 342,
+    "preparationMinutes": 25,
+    "tags": [
+      "pizza",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Veggie Delight Pizza",
+    "description": "Veggie Delight Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 299,
+    "image": "food_5.png",
+    "category": "Pizza",
+    "isVeg": true,
+    "rating": 4.3,
+    "ratingCount": 379,
+    "preparationMinutes": 30,
+    "tags": [
+      "pizza",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings",
+      "Egg"
+    ]
+  },
+  {
+    "name": "Peri Peri Chicken Pizza",
+    "description": "Peri Peri Chicken Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 359,
+    "image": "food_25.png",
+    "category": "Pizza",
+    "isVeg": false,
+    "rating": 4.2,
+    "ratingCount": 416,
+    "preparationMinutes": 15,
+    "tags": [
+      "pizza",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Mexican Fiesta Pizza",
+    "description": "Mexican Fiesta Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 339,
+    "image": "food_27.png",
+    "category": "Pizza",
+    "isVeg": true,
+    "rating": 4.9,
+    "ratingCount": 453,
+    "preparationMinutes": 20,
+    "tags": [
+      "pizza",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Mushroom Truffle Pizza",
+    "description": "Mushroom Truffle Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 389,
+    "image": "food_28.png",
+    "category": "Pizza",
+    "isVeg": true,
+    "rating": 4.8,
+    "ratingCount": 490,
+    "preparationMinutes": 25,
+    "tags": [
+      "pizza",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Hawaiian Pizza",
+    "description": "Hawaiian Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 359,
+    "image": "food_30.png",
+    "category": "Pizza",
+    "isVeg": false,
+    "rating": 4.7,
+    "ratingCount": 527,
+    "preparationMinutes": 30,
+    "tags": [
+      "pizza",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings"
+    ]
+  },
+  {
+    "name": "Spicy Supreme Pizza",
+    "description": "Spicy Supreme Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 379,
+    "image": "food_31.png",
+    "category": "Pizza",
+    "isVeg": false,
+    "rating": 4.6,
+    "ratingCount": 564,
+    "preparationMinutes": 15,
+    "tags": [
+      "pizza",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings"
+    ]
+  },
+  {
+    "name": "Corn and Cheese Pizza",
+    "description": "Corn and Cheese Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 279,
+    "image": "food_9.png",
+    "category": "Pizza",
+    "isVeg": true,
+    "rating": 4.5,
+    "ratingCount": 601,
+    "preparationMinutes": 20,
+    "tags": [
+      "pizza",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "MealMate Special Pizza",
+    "description": "MealMate Special Pizza, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 449,
+    "image": "food_5.png",
+    "category": "Pizza",
+    "isVeg": false,
+    "rating": 4.4,
+    "ratingCount": 638,
+    "preparationMinutes": 25,
+    "tags": [
+      "pizza",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Pizza base",
+      "Tomato sauce",
+      "Mozzarella",
+      "Italian herbs",
+      "Selected toppings"
+    ]
+  },
+  {
+    "name": "Veg Hakka Noodles",
+    "description": "Veg Hakka Noodles, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 159,
+    "image": "food_32.png",
+    "category": "Chinese",
+    "isVeg": true,
+    "rating": 4.2,
+    "ratingCount": 120,
+    "preparationMinutes": 15,
+    "tags": [
+      "chinese",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Chicken Hakka Noodles",
+    "description": "Chicken Hakka Noodles, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 199,
+    "image": "food_25.png",
+    "category": "Chinese",
+    "isVeg": false,
+    "rating": 4.9,
+    "ratingCount": 157,
+    "preparationMinutes": 20,
+    "tags": [
+      "chinese",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Schezwan Fried Rice",
+    "description": "Schezwan Fried Rice, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 179,
+    "image": "food_27.png",
+    "category": "Chinese",
+    "isVeg": true,
+    "rating": 4.8,
+    "ratingCount": 194,
+    "preparationMinutes": 25,
+    "tags": [
+      "chinese",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Veg Manchurian",
+    "description": "Veg Manchurian, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 169,
+    "image": "food_28.png",
+    "category": "Chinese",
+    "isVeg": true,
+    "rating": 4.7,
+    "ratingCount": 231,
+    "preparationMinutes": 30,
+    "tags": [
+      "chinese",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Chicken Manchurian",
+    "description": "Chicken Manchurian, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 229,
+    "image": "food_30.png",
+    "category": "Chinese",
+    "isVeg": false,
+    "rating": 4.6,
+    "ratingCount": 268,
+    "preparationMinutes": 15,
+    "tags": [
+      "chinese",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Chilli Paneer",
+    "description": "Chilli Paneer, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 199,
+    "image": "food_31.png",
+    "category": "Chinese",
+    "isVeg": true,
+    "rating": 4.5,
+    "ratingCount": 305,
+    "preparationMinutes": 20,
+    "tags": [
+      "chinese",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Paneer"
+    ]
+  },
+  {
+    "name": "Chilli Chicken",
+    "description": "Chilli Chicken, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 229,
+    "image": "food_2.png",
+    "category": "Chinese",
+    "isVeg": false,
+    "rating": 4.4,
+    "ratingCount": 342,
+    "preparationMinutes": 25,
+    "tags": [
+      "chinese",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Spring Rolls",
+    "description": "Spring Rolls, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 129,
+    "image": "food_9.png",
+    "category": "Chinese",
+    "isVeg": true,
+    "rating": 4.3,
+    "ratingCount": 379,
+    "preparationMinutes": 30,
+    "tags": [
+      "chinese",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Dragon Chicken",
+    "description": "Dragon Chicken, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 249,
+    "image": "food_32.png",
+    "category": "Chinese",
+    "isVeg": false,
+    "rating": 4.2,
+    "ratingCount": 416,
+    "preparationMinutes": 15,
+    "tags": [
+      "chinese",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Schezwan Noodles",
+    "description": "Schezwan Noodles, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 189,
+    "image": "food_25.png",
+    "category": "Chinese",
+    "isVeg": true,
+    "rating": 4.9,
+    "ratingCount": 453,
+    "preparationMinutes": 20,
+    "tags": [
+      "chinese",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Mushroom Fried Rice",
+    "description": "Mushroom Fried Rice, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 189,
+    "image": "food_27.png",
+    "category": "Chinese",
+    "isVeg": true,
+    "rating": 4.8,
+    "ratingCount": 490,
+    "preparationMinutes": 25,
+    "tags": [
+      "chinese",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Crispy Corn",
+    "description": "Crispy Corn, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 149,
+    "image": "food_28.png",
+    "category": "Chinese",
+    "isVeg": true,
+    "rating": 4.7,
+    "ratingCount": 527,
+    "preparationMinutes": 30,
+    "tags": [
+      "chinese",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "description": "Kung Pao Chicken, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 259,
+    "image": "food_30.png",
+    "category": "Chinese",
+    "isVeg": false,
+    "rating": 4.6,
+    "ratingCount": 564,
+    "preparationMinutes": 15,
+    "tags": [
+      "chinese",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Garlic Pepper Prawns",
+    "description": "Garlic Pepper Prawns, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 299,
+    "image": "food_31.png",
+    "category": "Chinese",
+    "isVeg": false,
+    "rating": 4.5,
+    "ratingCount": 601,
+    "preparationMinutes": 20,
+    "tags": [
+      "chinese",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Prawns"
+    ]
+  },
+  {
+    "name": "Triple Schezwan Rice",
+    "description": "Triple Schezwan Rice, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 239,
+    "image": "food_2.png",
+    "category": "Chinese",
+    "isVeg": true,
+    "rating": 4.4,
+    "ratingCount": 638,
+    "preparationMinutes": 25,
+    "tags": [
+      "chinese",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Vegetables",
+      "Garlic",
+      "Spring onion",
+      "Soy-based seasoning",
+      "House sauce",
+      "Noodles or rice",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Classic Chicken Wrap",
+    "description": "Classic Chicken Wrap, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 149,
+    "image": "food_6.png",
+    "category": "Wraps",
+    "isVeg": false,
+    "rating": 4.2,
+    "ratingCount": 120,
+    "preparationMinutes": 15,
+    "tags": [
+      "wraps",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Paneer Tikka Wrap",
+    "description": "Paneer Tikka Wrap, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 139,
+    "image": "food_7.png",
+    "category": "Wraps",
+    "isVeg": true,
+    "rating": 4.9,
+    "ratingCount": 157,
+    "preparationMinutes": 20,
+    "tags": [
+      "wraps",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling",
+      "Paneer"
+    ]
+  },
+  {
+    "name": "Peri Peri Chicken Wrap",
+    "description": "Peri Peri Chicken Wrap, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 169,
+    "image": "food_8.png",
+    "category": "Wraps",
+    "isVeg": false,
+    "rating": 4.8,
+    "ratingCount": 194,
+    "preparationMinutes": 25,
+    "tags": [
+      "wraps",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Falafel Hummus Wrap",
+    "description": "Falafel Hummus Wrap, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 129,
+    "image": "food_16.png",
+    "category": "Wraps",
+    "isVeg": true,
+    "rating": 4.7,
+    "ratingCount": 231,
+    "preparationMinutes": 30,
+    "tags": [
+      "wraps",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "BBQ Chicken Wrap",
+    "description": "BBQ Chicken Wrap, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 179,
+    "image": "food_6.png",
+    "category": "Wraps",
+    "isVeg": false,
+    "rating": 4.6,
+    "ratingCount": 268,
+    "preparationMinutes": 15,
+    "tags": [
+      "wraps",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Crispy Fish Wrap",
+    "description": "Crispy Fish Wrap, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 189,
+    "image": "food_7.png",
+    "category": "Wraps",
+    "isVeg": false,
+    "rating": 4.5,
+    "ratingCount": 305,
+    "preparationMinutes": 20,
+    "tags": [
+      "wraps",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling",
+      "Fish"
+    ]
+  },
+  {
+    "name": "Mexican Bean Wrap",
+    "description": "Mexican Bean Wrap, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 129,
+    "image": "food_8.png",
+    "category": "Wraps",
+    "isVeg": true,
+    "rating": 4.4,
+    "ratingCount": 342,
+    "preparationMinutes": 25,
+    "tags": [
+      "wraps",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Tandoori Paneer Roll",
+    "description": "Tandoori Paneer Roll, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 159,
+    "image": "food_16.png",
+    "category": "Wraps",
+    "isVeg": true,
+    "rating": 4.3,
+    "ratingCount": 379,
+    "preparationMinutes": 30,
+    "tags": [
+      "wraps",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling",
+      "Paneer"
+    ]
+  },
+  {
+    "name": "Egg Mayo Wrap",
+    "description": "Egg Mayo Wrap, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 119,
+    "image": "food_6.png",
+    "category": "Wraps",
+    "isVeg": false,
+    "rating": 4.2,
+    "ratingCount": 416,
+    "preparationMinutes": 15,
+    "tags": [
+      "wraps",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling",
+      "Egg"
+    ]
+  },
+  {
+    "name": "Spicy Schezwan Wrap",
+    "description": "Spicy Schezwan Wrap, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 149,
+    "image": "food_7.png",
+    "category": "Wraps",
+    "isVeg": false,
+    "rating": 4.9,
+    "ratingCount": 453,
+    "preparationMinutes": 20,
+    "tags": [
+      "wraps",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling"
+    ]
+  },
+  {
+    "name": "Grilled Veggie Wrap",
+    "description": "Grilled Veggie Wrap, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 129,
+    "image": "food_8.png",
+    "category": "Wraps",
+    "isVeg": true,
+    "rating": 4.8,
+    "ratingCount": 490,
+    "preparationMinutes": 25,
+    "tags": [
+      "wraps",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling",
+      "Egg"
+    ]
+  },
+  {
+    "name": "Chicken Seekh Kebab Roll",
+    "description": "Chicken Seekh Kebab Roll, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 179,
+    "image": "food_16.png",
+    "category": "Wraps",
+    "isVeg": false,
+    "rating": 4.7,
+    "ratingCount": 527,
+    "preparationMinutes": 30,
+    "tags": [
+      "wraps",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Mushroom Cheese Wrap",
+    "description": "Mushroom Cheese Wrap, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 149,
+    "image": "food_6.png",
+    "category": "Wraps",
+    "isVeg": true,
+    "rating": 4.6,
+    "ratingCount": 564,
+    "preparationMinutes": 15,
+    "tags": [
+      "wraps",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Double Chicken Roll",
+    "description": "Double Chicken Roll, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 199,
+    "image": "food_7.png",
+    "category": "Wraps",
+    "isVeg": false,
+    "rating": 4.5,
+    "ratingCount": 601,
+    "preparationMinutes": 20,
+    "tags": [
+      "wraps",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "MealMate Special Wrap",
+    "description": "MealMate Special Wrap, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 219,
+    "image": "food_8.png",
+    "category": "Wraps",
+    "isVeg": false,
+    "rating": 4.4,
+    "ratingCount": 638,
+    "preparationMinutes": 25,
+    "tags": [
+      "wraps",
+      "non-vegetarian"
+    ],
+    "ingredients": [
+      "Flatbread",
+      "Fresh vegetables",
+      "House sauce",
+      "Seasoning",
+      "Selected filling"
+    ]
+  },
+  {
+    "name": "Masala Dosa",
+    "description": "Masala Dosa, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 129,
+    "image": "food_24.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.2,
+    "ratingCount": 120,
+    "preparationMinutes": 15,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Plain Dosa",
+    "description": "Plain Dosa, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 79,
+    "image": "food_26.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.9,
+    "ratingCount": 157,
+    "preparationMinutes": 20,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Ghee Roast Dosa",
+    "description": "Ghee Roast Dosa, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 119,
+    "image": "food_29.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.8,
+    "ratingCount": 194,
+    "preparationMinutes": 25,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Mysore Masala Dosa",
+    "description": "Mysore Masala Dosa, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 139,
+    "image": "food_24.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.7,
+    "ratingCount": 231,
+    "preparationMinutes": 30,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Onion Uttapam",
+    "description": "Onion Uttapam, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 109,
+    "image": "food_26.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.6,
+    "ratingCount": 268,
+    "preparationMinutes": 15,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Idli Sambar",
+    "description": "Idli Sambar, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 69,
+    "image": "food_29.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.5,
+    "ratingCount": 305,
+    "preparationMinutes": 20,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Medu Vada",
+    "description": "Medu Vada, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 69,
+    "image": "food_24.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.4,
+    "ratingCount": 342,
+    "preparationMinutes": 25,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Podi Idli",
+    "description": "Podi Idli, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 89,
+    "image": "food_26.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.3,
+    "ratingCount": 379,
+    "preparationMinutes": 30,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Pongal",
+    "description": "Pongal, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 99,
+    "image": "food_29.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.2,
+    "ratingCount": 416,
+    "preparationMinutes": 15,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Appam with Stew",
+    "description": "Appam with Stew, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 149,
+    "image": "food_24.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.9,
+    "ratingCount": 453,
+    "preparationMinutes": 20,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Kerala Parotta",
+    "description": "Kerala Parotta, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 89,
+    "image": "food_26.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.8,
+    "ratingCount": 490,
+    "preparationMinutes": 25,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Puttu and Kadala Curry",
+    "description": "Puttu and Kadala Curry, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 119,
+    "image": "food_29.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.7,
+    "ratingCount": 527,
+    "preparationMinutes": 30,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Set Dosa",
+    "description": "Set Dosa, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 99,
+    "image": "food_24.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.6,
+    "ratingCount": 564,
+    "preparationMinutes": 15,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Rava Dosa",
+    "description": "Rava Dosa, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 119,
+    "image": "food_26.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.5,
+    "ratingCount": 601,
+    "preparationMinutes": 20,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Paneer Dosa",
+    "description": "Paneer Dosa, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 149,
+    "image": "food_29.png",
+    "category": "South Indian",
+    "isVeg": true,
+    "rating": 4.4,
+    "ratingCount": 638,
+    "preparationMinutes": 25,
+    "tags": [
+      "south indian",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rice",
+      "Lentils",
+      "Spices",
+      "Coconut chutney",
+      "Sambar ingredients",
+      "Paneer"
+    ]
+  },
+  {
+    "name": "Chocolate Truffle Cake",
+    "description": "Chocolate Truffle Cake, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 149,
+    "image": "food_10.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.2,
+    "ratingCount": 120,
+    "preparationMinutes": 15,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Red Velvet Cake",
+    "description": "Red Velvet Cake, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 159,
+    "image": "food_12.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.9,
+    "ratingCount": 157,
+    "preparationMinutes": 20,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Classic Cheesecake",
+    "description": "Classic Cheesecake, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 179,
+    "image": "food_17.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.8,
+    "ratingCount": 194,
+    "preparationMinutes": 25,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Gulab Jamun",
+    "description": "Gulab Jamun, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 79,
+    "image": "food_18.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.7,
+    "ratingCount": 231,
+    "preparationMinutes": 30,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Rasmalai",
+    "description": "Rasmalai, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 99,
+    "image": "food_19.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.6,
+    "ratingCount": 268,
+    "preparationMinutes": 15,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Brownie with Ice Cream",
+    "description": "Brownie with Ice Cream, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 149,
+    "image": "food_20.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.5,
+    "ratingCount": 305,
+    "preparationMinutes": 20,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Tiramisu",
+    "description": "Tiramisu, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 189,
+    "image": "food_10.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.4,
+    "ratingCount": 342,
+    "preparationMinutes": 25,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "description": "Chocolate Lava Cake, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 139,
+    "image": "food_12.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.3,
+    "ratingCount": 379,
+    "preparationMinutes": 30,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Mango Mousse",
+    "description": "Mango Mousse, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 129,
+    "image": "food_17.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.2,
+    "ratingCount": 416,
+    "preparationMinutes": 15,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Caramel Custard",
+    "description": "Caramel Custard, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 99,
+    "image": "food_18.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.9,
+    "ratingCount": 453,
+    "preparationMinutes": 20,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "New York Cheesecake",
+    "description": "New York Cheesecake, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 189,
+    "image": "food_19.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.8,
+    "ratingCount": 490,
+    "preparationMinutes": 25,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Belgian Waffle",
+    "description": "Belgian Waffle, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 159,
+    "image": "food_20.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.7,
+    "ratingCount": 527,
+    "preparationMinutes": 30,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Choco Chip Cookies",
+    "description": "Choco Chip Cookies, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 89,
+    "image": "food_10.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.6,
+    "ratingCount": 564,
+    "preparationMinutes": 15,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Kulfi Falooda",
+    "description": "Kulfi Falooda, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 119,
+    "image": "food_12.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.5,
+    "ratingCount": 601,
+    "preparationMinutes": 20,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Tres Leches Cake",
+    "description": "Tres Leches Cake, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 179,
+    "image": "food_17.png",
+    "category": "Desserts",
+    "isVeg": true,
+    "rating": 4.4,
+    "ratingCount": 638,
+    "preparationMinutes": 25,
+    "tags": [
+      "desserts",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Milk or dairy alternative",
+      "Flour",
+      "Sugar",
+      "Flavoring",
+      "Selected dessert toppings",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Classic Mojito",
+    "description": "Classic Mojito, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 119,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.2,
+    "ratingCount": 120,
+    "preparationMinutes": 15,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Fresh Lime Soda",
+    "description": "Fresh Lime Soda, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 69,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.9,
+    "ratingCount": 157,
+    "preparationMinutes": 20,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Mango Smoothie",
+    "description": "Mango Smoothie, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 129,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.8,
+    "ratingCount": 194,
+    "preparationMinutes": 25,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Cold Coffee",
+    "description": "Cold Coffee, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 119,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.7,
+    "ratingCount": 231,
+    "preparationMinutes": 30,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Iced Tea",
+    "description": "Iced Tea, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 89,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.6,
+    "ratingCount": 268,
+    "preparationMinutes": 15,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Watermelon Juice",
+    "description": "Watermelon Juice, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 99,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.5,
+    "ratingCount": 305,
+    "preparationMinutes": 20,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Strawberry Milkshake",
+    "description": "Strawberry Milkshake, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 139,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.4,
+    "ratingCount": 342,
+    "preparationMinutes": 25,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Oreo Shake",
+    "description": "Oreo Shake, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 149,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.3,
+    "ratingCount": 379,
+    "preparationMinutes": 30,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Virgin Pina Colada",
+    "description": "Virgin Pina Colada, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 149,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.2,
+    "ratingCount": 416,
+    "preparationMinutes": 15,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Masala Chai",
+    "description": "Masala Chai, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 39,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.9,
+    "ratingCount": 453,
+    "preparationMinutes": 20,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Filter Coffee",
+    "description": "Filter Coffee, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 49,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.8,
+    "ratingCount": 490,
+    "preparationMinutes": 25,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Blue Lagoon",
+    "description": "Blue Lagoon, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 129,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.7,
+    "ratingCount": 527,
+    "preparationMinutes": 30,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Tender Coconut Water",
+    "description": "Tender Coconut Water, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 59,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.6,
+    "ratingCount": 564,
+    "preparationMinutes": 15,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Mint Lemonade",
+    "description": "Mint Lemonade, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 89,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.5,
+    "ratingCount": 601,
+    "preparationMinutes": 20,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  },
+  {
+    "name": "Chocolate Frappe",
+    "description": "Chocolate Frappe, freshly prepared with quality ingredients and MealMate's signature flavors.",
+    "price": 159,
+    "image": "food_11.png",
+    "category": "Beverages",
+    "isVeg": true,
+    "rating": 4.4,
+    "ratingCount": 638,
+    "preparationMinutes": 25,
+    "tags": [
+      "beverages",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Filtered water or milk",
+      "Fruit or flavor base",
+      "Ice",
+      "Sweetener as required",
+      "Vegetables"
+    ]
+  }
+]
